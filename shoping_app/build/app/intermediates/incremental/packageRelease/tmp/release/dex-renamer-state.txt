@@ -1,4 +1,4 @@
-#Tue Apr 12 18:38:29 IST 2022
+#Tue Apr 12 19:19:23 IST 2022
 base.0=C\:\\Users\\Arshadul Rahman\\Desktop\\fold\\my SW\\Task\\hexeam\\ecomerce app\\shoping_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
