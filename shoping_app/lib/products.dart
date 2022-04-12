@@ -88,7 +88,7 @@ class _FeaturedProductsState extends State<FeaturedProducts> {
                               title: Text(
                                 'Special Burger',
                                 //  Gets! [index].productDetails![index].productName.toString()
-                                style: TextStyle(fontSize: 20),
+                                style: TextStyle(fontSize: 18),
                               ),
                               subtitle: Text(
                                 '\u{20B9}${100}',
