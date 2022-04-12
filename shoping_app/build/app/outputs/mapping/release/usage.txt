@@ -1219,8 +1219,8 @@ kotlinx.coroutines.channels.Channel$Factory:
     public static final int OPTIONAL_CHANNEL
     public static final java.lang.String DEFAULT_BUFFER_PROPERTY_NAME
 kotlinx.coroutines.RunnableKt$Runnable$1
-com.google.common.collect.AbstractMapBasedMultimap$NavigableAsMap
 com.google.common.collect.ContiguousSet
+com.google.common.collect.AbstractMapBasedMultimap$NavigableAsMap
 com.google.common.base.PairwiseEquivalence
 kotlin.jvm.internal.TypeReference
 com.google.common.cache.LongAddable
@@ -1803,8 +1803,8 @@ com.google.common.collect.ImmutableSet
 com.google.common.cache.CacheBuilder$3
 com.google.common.base.FinalizableReferenceQueue$FinalizerLoader
 com.google.common.reflect.Types$GenericArrayTypeImpl
-kotlinx.coroutines.flow.SharedFlowImpl$WhenMappings
 kotlinx.coroutines.AwaitAll$AwaitAllNode
+kotlinx.coroutines.flow.SharedFlowImpl$WhenMappings
 javax.annotation.Nonnegative$Checker
 javax.annotation.WillClose
 kotlinx.coroutines.flow.FlowKt__TransformKt$mapNotNull$$inlined$unsafeTransform$1$1
@@ -9220,8 +9220,8 @@ io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineBroadca
 androidx.core.app.NotificationCompat$Action$WearableExtender
 kotlinx.coroutines.channels.AbstractChannel$receiveCatching$1
 com.google.common.collect.TreeTraverser$PreOrderIterator
-androidx.core.view.ViewCompat$Api21Impl
 com.google.common.base.internal.Finalizer
+androidx.core.view.ViewCompat$Api21Impl
 kotlinx.coroutines.sync.MutexImpl$LockWaiter
 com.google.common.collect.Tables$TransformedTable$2
 kotlinx.coroutines.flow.internal.FlowCoroutine
@@ -10661,6 +10661,6 @@ androidx.core.content.res.ResourcesCompat:
     private static final java.lang.ThreadLocal sTempTypedValue
     private static final java.util.WeakHashMap sColorStateCaches
     private static final java.lang.Object sColorStateCacheLock
-io.flutter.plugin.common.BinaryMessenger$-CC
-io.flutter.plugin.platform.PlatformView$-CC
 io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC
+io.flutter.plugin.platform.PlatformView$-CC
+io.flutter.plugin.common.BinaryMessenger$-CC

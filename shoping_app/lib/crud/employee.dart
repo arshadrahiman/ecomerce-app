@@ -3,8 +3,7 @@ import 'package:hive/hive.dart';
 part 'employee.g.dart';
 
 @HiveType(typeId: 0)
-class Employee{
-
+class Employee {
   @HiveField(0)
   String? empName;
 
@@ -15,5 +14,4 @@ class Employee{
   String? empAge;
 
   Employee({this.empName, this.empSalary, this.empAge});
-
 }
