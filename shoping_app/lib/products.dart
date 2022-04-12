@@ -88,7 +88,7 @@ class _FeaturedProductsState extends State<FeaturedProducts> {
                                 ),
                               ),
                                ListTile(
-                                title: Text(''
+                                title: Text('Special Burger'
                                 //  Gets! [index].productDetails![index].productName.toString()
                                 ,
                                   style: TextStyle(fontSize: 20),
